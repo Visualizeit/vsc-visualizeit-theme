@@ -1,0 +1,21 @@
+{
+    "name": "visualizeit-theme",
+    "displayName": "Visualizeit Theme",
+    "description": "Visualizeit special customization",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Visualizeit Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Visualizeit Theme-color-theme.json"
+            }
+        ]
+    }
+}
