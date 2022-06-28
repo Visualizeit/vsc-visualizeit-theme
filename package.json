@@ -2,9 +2,18 @@
     "name": "visualizeit-theme",
     "displayName": "Visualizeit Theme",
     "description": "Visualizeit special customization",
-    "version": "0.0.1",
+    "publisher": "Visualizeit",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
+    },
+    "icon": "logo.jpg",
+    "author": {
+        "name": "Visualizeit"
+    },
+    "repository": {
+        "url": "https://github.com/Visualizeit/vsc-visualizeit-theme.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
