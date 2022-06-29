@@ -3,7 +3,7 @@
     "displayName": "Visualizeit Theme",
     "description": "Visualizeit special customization",
     "publisher": "Visualizeit",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },
